@@ -1,14 +1,8 @@
 #include <iostream>
-#include <vector>
 #include "FileWrdCounter.h"
 
 using std::endl;
 using std::cout;
-using std::cin;
-using std::string;
-using std::vector;
-using std::ifstream;
-using std::tolower;
 
 int main() {
     string fileName = "";
